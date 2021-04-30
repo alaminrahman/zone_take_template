@@ -1,0 +1,34 @@
+@media screen and (max-width: 1200px){
+     /*Tablets [601px -> 1200px]*/
+ }
+ @media only screen and (max-width: 768px){
+     /*Big smartphones [426px -> 600px]*/
+}
+ @media only screen and (max-width: 560px){
+      /*Big smartphones [426px -> 600px]*/
+ }
+ @media only screen and (max-width: 425px){
+      /*Small smartphones [325px -> 425px]*/
+      .hero_title h2{
+           font-size: 12px!important;
+      }
+      .tracking {
+          margin: 10px 0px;
+          padding: 0px 20px;
+      }
+      .tracking_input{
+          width: 100px;
+     }
+     .footer_section{
+          text-align: center;
+     }
+     .copyright_text p{
+          font-size: 12px;
+     }
+     .develop_by p{
+          font-size: 12px;
+     }
+     .zone_take_res{
+          margin: 15px 0px!important;
+     }
+ }

@@ -1,0 +1,106 @@
+*{
+     margin: 0;
+     padding: 0;
+}
+
+body{
+
+}
+
+/*Start Template Default Style */
+.tem-bg{
+     background-color: #4d148c!important;
+}
+.tem-bg-2{
+     background-color: #ff6200!important;
+}
+.font-color{
+     color: #4d148c !important;
+}
+/*End Template Default Style */
+
+/* Start Navbar Style */
+.nav_icon i{
+     font-size: 20px;
+}
+/* End Navbar Style */
+
+/* Start Hero Section */
+.hero_section{
+     
+}
+.hero_area{
+     
+}
+.hero-text{
+     position: absolute;
+}
+.tracking{
+  margin: 180px 0px;
+}
+.tracking_input{
+     width: 200px;
+}
+
+.hero_img{
+    
+}
+/* End Hero Section */
+
+/* Start Pricing Section */
+.pricing_header p{    
+     margin: 0px;     
+}
+.pricing_header .pricing_text{
+
+}
+.pricing_box{
+     width: 200px;
+     height: 200px;
+     background-color: gray;
+     padding: 70px 0px;
+}
+.pricing_box .text p{
+     margin: 0px;
+}
+.pricing_box:hover{
+     background-color: #4d148c;
+     transition: 2s;
+}
+.same_day_price,
+.regular_day_price,
+.next_day_price:hover{
+     cursor: pointer;
+}
+.online_service{
+     height: 250px;
+     background: #4d148c;
+}
+.online_service .icon{
+     font-size: 40px;
+}
+/* End Pricing Section */
+
+/* Start Footer Section */
+.footer_section{
+     background-color: #fafafa;
+}
+.footer_list{
+     list-style: none;
+     
+}
+.social_app .facebook{
+     font-size: 20px;
+}
+.copyright{
+     height: 60px;
+}
+.copyright_text p{
+     line-height: 60px;
+}
+.develop_by p{
+     line-height: 60px;
+}
+/* End Footer Section */
+
+
