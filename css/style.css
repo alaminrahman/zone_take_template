@@ -17,7 +17,24 @@ body{
 .font-color{
      color: #4d148c !important;
 }
+.active-bg{
+     background-color: #4d148c !important;
+}
 /*End Template Default Style */
+
+/* Start Constant Style */
+/* Chrome, Safari, Edge, Opera */
+     input::-webkit-outer-spin-button,
+     input::-webkit-inner-spin-button {
+     -webkit-appearance: none;
+     margin: 0;
+     }
+
+     /* Firefox */
+     input[type=number] {
+     -moz-appearance: textfield;
+     }
+/* End Constant Style */
 
 /* Start Navbar Style */
 .nav_icon i{
@@ -103,4 +120,10 @@ body{
 }
 /* End Footer Section */
 
+/* Start Profile */
+.profile_box .image{
+    
+}
+
+/* End Profile */
 
